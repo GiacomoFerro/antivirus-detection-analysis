@@ -2,7 +2,7 @@
 Software Security project. A.A. 2019/2020. 
 
 Students:
-Giacomo Ferro & Marco Lucchese.
+Giacomo Ferro (https://github.com/GiacomoFerro) & Marco Lucchese (https://github.com/marcolucc).
 
 # files:
 1) **literature** = academic paper on the topic
