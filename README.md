@@ -1,5 +1,6 @@
 # antivirus-detection-analysis
-Software Security project. A.A. 2019/2020. 
+
+Software Security project - malware detection analysis A.A. 2019/2020. 
 
 Students:
 Giacomo Ferro (https://github.com/GiacomoFerro) & Marco Lucchese (https://github.com/marcolucc).
