@@ -5,6 +5,8 @@ Software Security project - malware detection analysis A.A. 2019/2020.
 Students:
 Giacomo Ferro (https://github.com/GiacomoFerro) & Marco Lucchese (https://github.com/marcolucc).
 
+Profs: Mila Dalla Preda (http://profs.scienze.univr.it/~dallapre/)
+
 # files:
 1) **literature** = academic papers on the topic
 2) **virus-rev-tcp** = a rev-shell malware almost undetectable (score 4/70)
