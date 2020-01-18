@@ -12,3 +12,4 @@ Profs: dott.ssa Mila Dalla Preda (http://profs.scienze.univr.it/~dallapre/)
 2) **virus-rev-tcp** = a rev-shell malware almost undetectable (score 4/70)
 3) **virus-total-results** = results of AV detections on encoded virus with a list of msfvenom encoders
 4) **detection-table.pdf** = a table with a complete summary on AV detection on encoded virus
+5) **report-AV-analysis.pdf** = report of the project
